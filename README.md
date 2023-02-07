@@ -1,6 +1,6 @@
 # CS211-Computer-Architecture
  Computer architecture Course
-- QtSpim
-- Lab2 : System Calls and Control Flow
-- Lab 3 :
+- Lab 1 : QtSpim
+- Lab 2 : System Calls and Control Flow
+- Lab 3 : Exceptions in MIPS
 
