@@ -4,7 +4,7 @@
 - Lab 2 : System Calls and Control Flow
 - Lab 3 : Exceptions in MIPS
 
-# Programming exercises done as a part of a course on Computer Architecture. programming exercises come random practice problems found online. Organised alphabetically, this list explains what each MIPS code file does.
+#Programming exercises done as a part of a course on Computer Architecture. programming exercises come random practice problems found online. Organised alphabetically, this list explains what each MIPS code file does.
 
 * **add_subtract**: Input two numbers and display their sum and difference
 * **bubble_sort**: implement bubble sort using a given C code as template. [incomplete]
