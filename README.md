@@ -23,6 +23,6 @@
 * **print_pyramid**: Print a pyramid of height 'n' (user input)
 * **print_shapes**: Write a program that asks if the user wants a triangle or a square. It then asks the user for the size of the object (the number of lines it takes to draw the object). The program then writes a triangle or a square of stars to the console.
 * **remove_vowels**: Write a function to count the number of vowels in a given string and also return the string after removing the vowels and print that string in main function.
-* **reverse_string**: reverse a user inputted string in place and print it
+* **reverse_string**: reverse a user inputted string in place and print it.
 * **string_length**: find length of string stored in data segment.
 * **test**: disassembly exercises.
