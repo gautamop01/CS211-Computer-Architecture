@@ -8,7 +8,7 @@ module adder(
    parameter DSIZE = 8;
    
    input [DSIZE-1:0] a, b;
-   output [DSIZE-1:0] out;
+   output [2*DSIZE-1:0] out;
    
 assign out = a+b;
 
