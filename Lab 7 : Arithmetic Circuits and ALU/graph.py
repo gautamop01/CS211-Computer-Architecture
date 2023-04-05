@@ -10,11 +10,11 @@ y = [15.378,22.047]
 # plotting the points 
 plt.plot(x, y)
   
-# plt.xlabel('BIT-WIDTH')
-# plt.ylabel('DELAY')
+plt.xlabel('BIT-WIDTH')
+plt.ylabel('DELAY')
   
-# giving a title to my graph
-# plt.title('BIT-WIDTH v/s DELAY')
+giving a title to my graph
+plt.title('BIT-WIDTH v/s DELAY')
   
 # function to show the plot
 plt.show()
