@@ -14,10 +14,10 @@ module alu(
    input [DSIZE-1:0] a, b;
    input [2:0] op;
    
-   output [DSIZE-1:0] out;
+	output [2*DSIZE-1:0] out;
    
 
-	reg [DSIZE-1:0] out; 
+	reg [2*DSIZE-1:0] out; 
       
 always @(a or b or op )
 begin
