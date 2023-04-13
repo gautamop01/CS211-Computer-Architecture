@@ -3,6 +3,7 @@
 - Lab 1 : QtSpim
 - Lab 2 : System Calls and Control Flow
 - Lab 3 : Exceptions in MIPS
+- Lab 4 : 
 
 #Programming exercises done as a part of a course on Computer Architecture. programming exercises come random practice problems found online. Organised alphabetically, this list explains what each MIPS code file does.
 
