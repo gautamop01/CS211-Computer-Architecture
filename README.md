@@ -7,6 +7,7 @@
 - Lab 5 : Floating Point Operations in MIPS
 - Lab 6 : Dynamic Memory Allocation
 - Lab 7 : Arithmetic Circuits and ALU
+- Lab 8 : Datapath Implementation
 
 #Programming exercises done as a part of a course on Computer Architecture. programming exercises come random practice problems found online. Organised alphabetically, this list explains what each MIPS code file does.
 
